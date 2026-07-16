@@ -69,7 +69,7 @@ Repozytorium profilowe GitHuba z publicznym README, banerem i bezpieczną wersj�
 
 - Projekt ElektroScan jako główny projekt pokazowy portfolio automatyzujący analizę planów PDF.
 - Zamknięty projekt CodeFabric związany z generatywną AI i automatyzacją pracy programistycznej.
-- Projekt GameDev w Godot 4 rozwijany jako praktyka pracy ze scenami, skryptami i mechanikami gry 2D.
+- Projekt GameDev w Godot 4 jako praktyka pracy ze scenami, skryptami i mechanikami gry 2D.
 - Certyfikat PCEP – Certified Entry-Level Python Programmer.
 - Udział w kole GameDev i kole robotyki.
 - Doświadczenie projektowe związane z tworzeniem gry oraz udziałem w konkursach edukacyjnych.
