@@ -31,7 +31,7 @@ Profil jest uporządkowany wokół czterech publicznych repozytoriów, które na
 
 ### [CodeFabric](https://github.com/JakubLewosz/CodeFabric)
 
-Prototyp aplikacji wykorzystującej generatywną AI do wspierania pracy programistycznej: od opisu pomysłu, przez plan działania, po generowanie i poprawianie plików projektu. To obecnie najważniejszy projekt pokazujący moje zainteresowanie automatyzacją z pomocą AI.
+Współtworzony prototyp aplikacji wykorzystującej generatywną AI do wspierania pracy programistycznej: od opisu pomysłu, przez plan działania, po generowanie i poprawianie plików projektu. To obecnie najważniejszy projekt pokazujący moje zainteresowanie automatyzacją z pomocą AI.
 
 **Technologie:** Python, Streamlit, LangChain, LangGraph, Ollama, ChromaDB, Pydantic.
 

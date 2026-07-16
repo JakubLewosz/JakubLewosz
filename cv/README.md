@@ -10,7 +10,7 @@ Szukam zdalnego stażu, pracy dorywczej albo pierwszych zleceń związanych z au
 
 ### CodeFabric
 
-Projekt praktykowy związany z generatywną AI i automatyzacją pracy programistycznej.
+Współtworzony projekt związany z generatywną AI i automatyzacją pracy programistycznej.
 
 Na podstawie opisu użytkownika prototyp analizował wymagania, przygotowywał plan działania, tworzył strukturę katalogów oraz generował pliki projektu. Projekt pokazuje moje zainteresowanie narzędziami, które wspierają programistę w planowaniu i automatyzowaniu pracy.
 
