@@ -1,6 +1,6 @@
 <svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Jakub Lewosz GitHub profile banner</title>
-  <desc id="desc">A dark technical profile banner with the name Jakub Lewosz and full-stack developer focus.</desc>
+  <title id="title">Baner profilu GitHub Jakuba Lewosza</title>
+  <desc id="desc">Ciemny techniczny baner z imieniem i nazwiskiem Jakub Lewosz oraz kierunkiem rozwoju: Python, AI, analiza obrazu i automatyzacja.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#0B1020"/>
@@ -51,12 +51,12 @@
 
   <g filter="url(#shadow)">
     <text x="90" y="139" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="58" font-weight="800" letter-spacing="0">Jakub Lewosz</text>
-    <text x="94" y="190" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="500">Full-stack projects, practical tools, clean interfaces</text>
-    <rect x="94" y="224" width="152" height="42" rx="21" fill="#122034" stroke="#23445B"/>
-    <text x="126" y="251" fill="#7DD3FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">TypeScript</text>
-    <rect x="262" y="224" width="112" height="42" rx="21" fill="#10271F" stroke="#24513C"/>
-    <text x="294" y="251" fill="#86EFAC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">Python</text>
-    <rect x="390" y="224" width="78" height="42" rx="21" fill="#241B2D" stroke="#514061"/>
-    <text x="418" y="251" fill="#E9D5FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">C#</text>
+    <text x="94" y="190" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="500">Python i AI • Analiza obrazu • Automatyzacja</text>
+    <rect x="94" y="224" width="112" height="42" rx="21" fill="#10271F" stroke="#24513C"/>
+    <text x="126" y="251" fill="#86EFAC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">Python</text>
+    <rect x="222" y="224" width="116" height="42" rx="21" fill="#122034" stroke="#23445B"/>
+    <text x="253" y="251" fill="#7DD3FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">FastAPI</text>
+    <rect x="354" y="224" width="112" height="42" rx="21" fill="#241B2D" stroke="#514061"/>
+    <text x="383" y="251" fill="#E9D5FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">OpenCV</text>
   </g>
 </svg>
