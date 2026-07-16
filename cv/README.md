@@ -2,15 +2,15 @@
 
 ## Profil zawodowy
 
-Młodszy programista AI rozwijający się w kierunku Pythona, analizy obrazu, przetwarzania dokumentów PDF i automatyzacji.
+Młody programista rozwijający się w kierunku automatyzacji z wykorzystaniem AI, aplikacji webowych i praktycznych narzędzi wspierających codzienną pracę.
 
-Szukam zdalnego stażu, pracy dorywczej albo pierwszych zleceń związanych z Pythonem, AI, computer vision, analizą dokumentów lub narzędziami automatyzującymi powtarzalną pracę.
+Szukam zdalnego stażu, pracy dorywczej albo pierwszych zleceń związanych z automatyzacją, AI, aplikacjami webowymi i narzędziami ograniczającymi powtarzalne zadania.
 
 ## Doświadczenie techniczne
 
 ### CodeFabric
 
-Projekt praktykowy związany z generatywną AI i automatyzacją tworzenia projektów programistycznych.
+Projekt praktykowy związany z generatywną AI i automatyzacją pracy programistycznej.
 
 Na podstawie opisu użytkownika prototyp analizował wymagania, przygotowywał plan działania, tworzył strukturę katalogów oraz generował pliki projektu. Brałem udział w projektowaniu i tworzeniu prototypu oraz w testowaniu procesu generowania projektów.
 
@@ -18,9 +18,9 @@ Oryginalny kod źródłowy, materiały wewnętrzne, prompty i zrzuty ekranu nie 
 
 ### ElektroScan
 
-Projekt aplikacji do analizy planów elektrycznych zapisanych jako PDF oraz wykrywania i zliczania symboli na podstawie obrazu.
+Projekt aplikacji webowej wspierającej analizę planów elektrycznych zapisanych jako PDF oraz automatyzację liczenia symboli.
 
-Projekt łączy backend w Pythonie, przetwarzanie PDF, computer vision oraz interfejs webowy. Publiczne repozytorium: [JakubLewosz/ElektroScan](https://github.com/JakubLewosz/ElektroScan).
+Projekt łączy backend, przetwarzanie PDF, elementy analizy obrazu oraz interfejs webowy. Publiczne repozytorium: [JakubLewosz/ElektroScan](https://github.com/JakubLewosz/ElektroScan).
 
 ### Platforma bezpiecznej komunikacji
 
@@ -36,9 +36,9 @@ Publiczne repozytorium: [JakubLewosz/password-checker](https://github.com/JakubL
 
 ## Technologie
 
-- Python, FastAPI, Pydantic
-- OpenCV, PyMuPDF, NumPy, przetwarzanie dokumentów PDF
+- Generatywna AI, analiza wymagań, automatyzacja pracy programistycznej
 - React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Vite
+- Python, FastAPI, Pydantic, PyMuPDF, NumPy, OpenCV
 - Git, Docker Compose, Playwright, testy i skrypty weryfikacyjne
 - C# w projektach grupowych
 

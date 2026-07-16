@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/github-profile-header.svg" alt="Jakub Lewosz - Python i AI, analiza obrazu, automatyzacja" width="100%" />
+  <img src="./assets/github-profile-header.svg" alt="Jakub Lewosz - młody programista, automatyzacja z AI, praktyczne narzędzia" width="100%" />
 </p>
 
 <p align="center">
@@ -9,33 +9,33 @@
   <a href="./cv/README.md">
     <img alt="CV" src="https://img.shields.io/badge/CV-Markdown-38BDF8?style=for-the-badge&labelColor=111827" />
   </a>
-  <img alt="Kierunek" src="https://img.shields.io/badge/kierunek-AI%20%7C%20Python%20%7C%20automatyzacja-F59E0B?style=for-the-badge&labelColor=111827" />
+  <img alt="Kierunek" src="https://img.shields.io/badge/kierunek-automatyzacja%20z%20AI-F59E0B?style=for-the-badge&labelColor=111827" />
 </p>
 
 ## Cześć, jestem Jakub Lewosz
 
-Jestem **młodszym programistą AI** rozwijającym się w kierunku Pythona, analizy obrazu, przetwarzania dokumentów PDF i automatyzacji.
+Jestem **młodym programistą** rozwijającym się w kierunku automatyzacji z wykorzystaniem AI, aplikacji webowych i praktycznych narzędzi wspierających codzienną pracę.
 
-Szukam **zdalnego stażu**, pracy dorywczej albo pierwszych zleceń związanych z Pythonem, AI, computer vision, analizą dokumentów i narzędziami automatyzującymi powtarzalną pracę.
+Szukam **zdalnego stażu**, pracy dorywczej albo pierwszych zleceń związanych z automatyzacją, AI, aplikacjami webowymi i narzędziami, które pomagają ograniczać powtarzalne zadania.
 
 ## W skrócie
 
-- Główny kierunek: Python, AI, analiza obrazu i automatyzacja.
+- Główny kierunek: automatyzacja z pomocą AI i praktyczne aplikacje webowe.
 - Najważniejszy projekt do sprawdzenia: [ElektroScan](https://github.com/JakubLewosz/ElektroScan).
-- Interesują mnie praktyczne narzędzia: przetwarzanie PDF, wykrywanie wzorców, automatyzacja dokumentów i aplikacje wspierające realny proces pracy.
+- Interesują mnie narzędzia, które analizują dane, porządkują informacje, wspierają użytkownika i automatyzują fragmenty pracy.
 - Dbam o czytelny kod, prostą strukturę projektu i dokumentację, którą da się wykorzystać podczas uruchamiania aplikacji.
 
 ## Najważniejsze projekty
 
 ### [ElektroScan](https://github.com/JakubLewosz/ElektroScan)
 
-Aplikacja do analizy planów elektrycznych zapisanych jako PDF oraz wykrywania i zliczania symboli przy użyciu Pythona, OpenCV i FastAPI. Projekt łączy przetwarzanie dokumentów, computer vision, backend API oraz interfejs przeglądarkowy.
+Aplikacja webowa wspierająca analizę planów elektrycznych zapisanych jako PDF. Projekt pokazuje pracę z backendem, interfejsem przeglądarkowym, przetwarzaniem dokumentów i automatyzacją powtarzalnego liczenia symboli.
 
 **Technologie:** Python, FastAPI, OpenCV, PyMuPDF, NumPy, Pydantic, Server-Sent Events, React, TypeScript, Vite, Tailwind CSS, Playwright, Docker Compose.
 
 ### CodeFabric
 
-Bezpieczne case study projektu praktykowego związanego z generatywną AI. Prototyp wspierał proces tworzenia projektów programistycznych: analizę opisu użytkownika, planowanie struktury, generowanie plików oraz sprawdzanie i ulepszanie wyniku. Oryginalny kod i materiały z praktyk nie są publikowane.
+Bezpieczne case study projektu praktykowego związanego z generatywną AI i automatyzacją pracy programistycznej. Prototyp wspierał analizę opisu użytkownika, planowanie struktury projektu, generowanie plików oraz sprawdzanie i ulepszanie wyniku. Oryginalny kod i materiały z praktyk nie są publikowane.
 
 ### [Platforma bezpiecznej komunikacji](https://github.com/JakubLewosz/Praktyki_Projekt_Grupa)
 
@@ -51,11 +51,11 @@ Mały projekt frontendowy sprawdzający wymagania i siłę hasła. Traktuję go 
 
 ## Technologie
 
-**Python i backend:** Python, FastAPI, Pydantic, API, automatyzacja.
+**Automatyzacja i AI:** generatywna AI, analiza wymagań, generowanie struktury projektu, narzędzia wspierające pracę.
 
-**Analiza obrazu i dokumentów:** OpenCV, PyMuPDF, NumPy, przetwarzanie PDF, wykrywanie wzorców.
+**Aplikacje webowe:** React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Vite.
 
-**Frontend:** React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Vite.
+**Backend i przetwarzanie danych:** Python, FastAPI, Pydantic, API, PyMuPDF, NumPy, OpenCV.
 
 **Narzędzia:** Git, Docker Compose, testy backendu, Playwright, skrypty weryfikacyjne.
 
@@ -63,8 +63,8 @@ Mały projekt frontendowy sprawdzający wymagania i siłę hasła. Traktuję go 
 
 ## Doświadczenie i osiągnięcia
 
-- Projekt praktykowy CodeFabric związany z generatywną AI i automatyzacją tworzenia projektów programistycznych.
-- Projekt ElektroScan rozwijany w kontekście praktyk szkolnych i analizy dokumentów PDF.
+- Projekt praktykowy CodeFabric związany z generatywną AI i automatyzacją pracy programistycznej.
+- Projekt ElektroScan rozwijany w kontekście praktyk szkolnych jako narzędzie automatyzujące analizę planów PDF.
 - Certyfikat PCEP – Certified Entry-Level Python Programmer.
 - Udział w kole GameDev i kole robotyki.
 - Doświadczenie projektowe związane z tworzeniem gry oraz udziałem w konkursach edukacyjnych.
