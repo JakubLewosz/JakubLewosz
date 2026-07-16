@@ -25,7 +25,15 @@ Szukam **zdalnego stażu**, pracy dorywczej albo pierwszych zleceń związanych 
 - Interesują mnie narzędzia, które analizują dane, porządkują informacje, wspierają użytkownika i automatyzują fragmenty pracy.
 - Dbam o czytelny kod, prostą strukturę projektu i dokumentację, którą da się wykorzystać podczas uruchamiania aplikacji.
 
-## Najważniejsze projekty
+## Publiczne repozytoria
+
+Profil jest uporządkowany wokół czterech publicznych repozytoriów, które najlepiej pokazują moje obecne zainteresowania: automatyzację z AI, aplikacje webowe, przetwarzanie dokumentów i GameDev.
+
+### [CodeFabric](https://github.com/JakubLewosz/CodeFabric)
+
+Prototyp aplikacji wykorzystującej generatywną AI do wspierania pracy programistycznej: od opisu pomysłu, przez plan działania, po generowanie i poprawianie plików projektu. To obecnie najważniejszy projekt pokazujący moje zainteresowanie automatyzacją z pomocą AI.
+
+**Technologie:** Python, Streamlit, LangChain, LangGraph, Ollama, ChromaDB, Pydantic.
 
 ### [ElektroScan](https://github.com/JakubLewosz/ElektroScan)
 
@@ -33,21 +41,15 @@ Aplikacja webowa wspierająca analizę planów elektrycznych zapisanych jako PDF
 
 **Technologie:** Python, FastAPI, OpenCV, PyMuPDF, NumPy, Pydantic, Server-Sent Events, React, TypeScript, Vite, Tailwind CSS, Playwright, Docker Compose.
 
-### CodeFabric
+### [Samurai's Last Stand](https://github.com/JakubLewosz/samurais-last-stand)
 
-Bezpieczne case study projektu praktykowego związanego z generatywną AI i automatyzacją pracy programistycznej. Prototyp wspierał analizę opisu użytkownika, planowanie struktury projektu, generowanie plików oraz sprawdzanie i ulepszanie wyniku. Oryginalny kod i materiały z praktyk nie są publikowane.
+Fork i rozwijany projekt gry 2D w Godot 4. Repozytorium pokazuje moje zainteresowanie GameDevem, GDScriptem, scenami, sterowaniem postacią, przeciwnikami i falami walki.
 
-### [Platforma bezpiecznej komunikacji](https://github.com/JakubLewosz/Praktyki_Projekt_Grupa)
+**Technologie:** Godot 4, GDScript, sceny 2D, eksport Windows.
 
-Współtworzony projekt grupowy obejmujący backend, frontend oraz system ról i uprawnień. Repozytorium prezentuje pracę nad komunikacją, wiadomościami, wątkami, załącznikami i uwierzytelnianiem.
+### [JakubLewosz](https://github.com/JakubLewosz/JakubLewosz)
 
-**Technologie:** C# oraz technologie webowe widoczne w repozytorium.
-
-### [Password Checker](https://github.com/JakubLewosz/password-checker)
-
-Mały projekt frontendowy sprawdzający wymagania i siłę hasła. Traktuję go jako projekt dodatkowy pokazujący podstawy pracy z interfejsem użytkownika.
-
-**Technologie:** JavaScript, HTML, CSS.
+Repozytorium profilowe GitHuba z publicznym README, banerem i bezpieczną wersją CV w Markdown.
 
 ## Technologie
 
@@ -55,16 +57,17 @@ Mały projekt frontendowy sprawdzający wymagania i siłę hasła. Traktuję go 
 
 **Aplikacje webowe:** React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Vite.
 
-**Backend i przetwarzanie danych:** Python, FastAPI, Pydantic, API, PyMuPDF, NumPy, OpenCV.
+**Backend i przetwarzanie danych:** Python, FastAPI, Pydantic, Streamlit, API, PyMuPDF, NumPy, OpenCV.
 
-**Narzędzia:** Git, Docker Compose, testy backendu, Playwright, skrypty weryfikacyjne.
+**Narzędzia:** Git, Docker Compose, Playwright, Godot 4, GDScript, testy backendu, skrypty weryfikacyjne.
 
 **Pozostałe doświadczenie:** C#, projekty grupowe, podstawy GameDev i robotyki.
 
 ## Doświadczenie i osiągnięcia
 
-- Projekt praktykowy CodeFabric związany z generatywną AI i automatyzacją pracy programistycznej.
+- Projekt CodeFabric związany z generatywną AI i automatyzacją pracy programistycznej.
 - Projekt ElektroScan rozwijany w kontekście praktyk szkolnych jako narzędzie automatyzujące analizę planów PDF.
+- Projekt GameDev w Godot 4 rozwijany jako praktyka pracy ze scenami, skryptami i mechanikami gry 2D.
 - Certyfikat PCEP – Certified Entry-Level Python Programmer.
 - Udział w kole GameDev i kole robotyki.
 - Doświadczenie projektowe związane z tworzeniem gry oraz udziałem w konkursach edukacyjnych.

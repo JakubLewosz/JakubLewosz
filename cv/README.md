@@ -12,9 +12,9 @@ Szukam zdalnego stażu, pracy dorywczej albo pierwszych zleceń związanych z au
 
 Projekt praktykowy związany z generatywną AI i automatyzacją pracy programistycznej.
 
-Na podstawie opisu użytkownika prototyp analizował wymagania, przygotowywał plan działania, tworzył strukturę katalogów oraz generował pliki projektu. Brałem udział w projektowaniu i tworzeniu prototypu oraz w testowaniu procesu generowania projektów.
+Na podstawie opisu użytkownika prototyp analizował wymagania, przygotowywał plan działania, tworzył strukturę katalogów oraz generował pliki projektu. Projekt pokazuje moje zainteresowanie narzędziami, które wspierają programistę w planowaniu i automatyzowaniu pracy.
 
-Oryginalny kod źródłowy, materiały wewnętrzne, prompty i zrzuty ekranu nie są publicznie dostępne ze względu na warunki praktyk.
+Publiczne repozytorium: [JakubLewosz/CodeFabric](https://github.com/JakubLewosz/CodeFabric).
 
 ### ElektroScan
 
@@ -22,25 +22,19 @@ Projekt aplikacji webowej wspierającej analizę planów elektrycznych zapisanyc
 
 Projekt łączy backend, przetwarzanie PDF, elementy analizy obrazu oraz interfejs webowy. Publiczne repozytorium: [JakubLewosz/ElektroScan](https://github.com/JakubLewosz/ElektroScan).
 
-### Platforma bezpiecznej komunikacji
+### Samurai's Last Stand
 
-Współtworzyłem projekt grupowy obejmujący backend, frontend oraz system ról i uprawnień. Repozytorium obejmuje między innymi komunikację, wiadomości, wątki, załączniki i uwierzytelnianie.
+Fork i rozwijany projekt gry 2D w Godot 4. Repozytorium obejmuje sceny, sterowanie, przeciwników, pociski, fale walki i eksport gry.
 
-Publiczne repozytorium: [JakubLewosz/Praktyki_Projekt_Grupa](https://github.com/JakubLewosz/Praktyki_Projekt_Grupa).
-
-### Password Checker
-
-Mały projekt frontendowy sprawdzający wymagania oraz siłę hasła.
-
-Publiczne repozytorium: [JakubLewosz/password-checker](https://github.com/JakubLewosz/password-checker).
+Publiczne repozytorium: [JakubLewosz/samurais-last-stand](https://github.com/JakubLewosz/samurais-last-stand).
 
 ## Technologie
 
 - Generatywna AI, analiza wymagań, automatyzacja pracy programistycznej
 - React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Vite
-- Python, FastAPI, Pydantic, PyMuPDF, NumPy, OpenCV
+- Python, FastAPI, Pydantic, Streamlit, PyMuPDF, NumPy, OpenCV
 - Git, Docker Compose, Playwright, testy i skrypty weryfikacyjne
-- C# w projektach grupowych
+- Godot 4, GDScript, podstawy GameDev
 
 ## Certyfikaty i osiągnięcia
 
