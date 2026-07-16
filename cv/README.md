@@ -8,19 +8,19 @@ Szukam zdalnego stażu, pracy dorywczej albo pierwszych zleceń związanych z au
 
 ## Doświadczenie techniczne
 
+### ElektroScan
+
+Główny, aktywnie rozwijany projekt portfolio: aplikacja webowa wspierająca analizę planów elektrycznych zapisanych jako PDF oraz automatyzację liczenia symboli.
+
+Projekt łączy backend, przetwarzanie PDF, elementy analizy obrazu oraz interfejs webowy. Publiczne repozytorium: [JakubLewosz/ElektroScan](https://github.com/JakubLewosz/ElektroScan).
+
 ### CodeFabric
 
-Współtworzony projekt związany z generatywną AI i automatyzacją pracy programistycznej.
+Zamknięty, współtworzony projekt związany z generatywną AI i automatyzacją pracy programistycznej.
 
 Na podstawie opisu użytkownika prototyp analizował wymagania, przygotowywał plan działania, tworzył strukturę katalogów oraz generował pliki projektu. Projekt pokazuje moje zainteresowanie narzędziami, które wspierają programistę w planowaniu i automatyzowaniu pracy.
 
 Publiczne repozytorium: [JakubLewosz/CodeFabric](https://github.com/JakubLewosz/CodeFabric).
-
-### ElektroScan
-
-Projekt aplikacji webowej wspierającej analizę planów elektrycznych zapisanych jako PDF oraz automatyzację liczenia symboli.
-
-Projekt łączy backend, przetwarzanie PDF, elementy analizy obrazu oraz interfejs webowy. Publiczne repozytorium: [JakubLewosz/ElektroScan](https://github.com/JakubLewosz/ElektroScan).
 
 ### Samurai's Last Stand
 
