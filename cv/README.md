@@ -4,7 +4,7 @@
 
 Młody programista rozwijający się w kierunku automatyzacji z wykorzystaniem AI, aplikacji webowych i praktycznych narzędzi wspierających codzienną pracę.
 
-Szukam zdalnego stażu, pracy dorywczej albo pierwszych zleceń związanych z automatyzacją, AI, aplikacjami webowymi i narzędziami ograniczającymi powtarzalne zadania.
+Jestem otwarty na zdalny staż, praktyki, pierwszą pracę juniorską albo niewielkie zlecenia związane z automatyzacją, AI, aplikacjami webowymi i narzędziami ograniczającymi powtarzalne zadania.
 
 ## Doświadczenie techniczne
 
@@ -12,7 +12,7 @@ Szukam zdalnego stażu, pracy dorywczej albo pierwszych zleceń związanych z au
 
 Główny projekt pokazowy portfolio: aplikacja webowa wspierająca analizę planów elektrycznych zapisanych jako PDF oraz automatyzację liczenia symboli.
 
-Projekt łączy backend, przetwarzanie PDF, elementy analizy obrazu oraz interfejs webowy. Publiczne repozytorium: [JakubLewosz/ElektroScan](https://github.com/JakubLewosz/ElektroScan).
+Projekt łączy backend, przetwarzanie PDF, detekcję symboli oraz interfejs webowy. Publiczne repozytorium: [JakubLewosz/ElektroScan](https://github.com/JakubLewosz/ElektroScan).
 
 ### CodeFabric
 

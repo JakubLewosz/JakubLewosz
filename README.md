@@ -16,7 +16,7 @@
 
 Jestem **młodym programistą** rozwijającym się w kierunku automatyzacji z wykorzystaniem AI, aplikacji webowych i praktycznych narzędzi wspierających codzienną pracę.
 
-Szukam **zdalnego stażu**, pracy dorywczej albo pierwszych zleceń związanych z automatyzacją, AI, aplikacjami webowymi i narzędziami, które pomagają ograniczać powtarzalne zadania.
+Jestem otwarty na **zdalny staż**, praktyki, pierwszą pracę juniorską albo niewielkie zlecenia związane z automatyzacją, AI, aplikacjami webowymi i narzędziami, które pomagają ograniczać powtarzalne zadania.
 
 Jako główny projekt portfolio pokazuję **ElektroScan** - aplikację webową do analizy planów PDF i automatycznego zliczania symboli elektrycznych.
 
