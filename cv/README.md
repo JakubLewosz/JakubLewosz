@@ -54,4 +54,6 @@ Technikum Programistyczne INFOTECH w Białymstoku, kierunek technik programista.
 
 ## Kontakt
 
-Kontakt przez profil GitHub: [github.com/JakubLewosz](https://github.com/JakubLewosz).
+Email: [jakublewosz6@gmail.com](mailto:jakublewosz6@gmail.com)
+
+GitHub: [github.com/JakubLewosz](https://github.com/JakubLewosz).

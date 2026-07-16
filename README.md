@@ -51,7 +51,7 @@ Fork projektu gry 2D w Godot 4. Repozytorium pokazuje moje zainteresowanie GameD
 
 ### [JakubLewosz](https://github.com/JakubLewosz/JakubLewosz)
 
-Repozytorium profilowe GitHuba z publicznym README, banerem i bezpieczną wersją CV w Markdown.
+Repozytorium profilowe GitHuba z publicznym README, banerem i wersją CV w Markdown.
 
 ## Technologie
 
@@ -77,11 +77,16 @@ Repozytorium profilowe GitHuba z publicznym README, banerem i bezpieczną wersj�
 
 ## CV
 
-Publiczna wersja CV bez prywatnych danych jest dostępna tutaj: [cv/README.md](./cv/README.md).
+Publiczna wersja CV w Markdown jest dostępna tutaj: [cv/README.md](./cv/README.md).
 
 ## Kontakt
 
+Najwygodniej skontaktować się ze mną przez email albo GitHub.
+
 <p>
+  <a href="mailto:jakublewosz6@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/email-jakublewosz6%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" />
+  </a>
   <a href="https://github.com/JakubLewosz">
     <img alt="Kontakt przez GitHub" src="https://img.shields.io/badge/kontakt-GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
