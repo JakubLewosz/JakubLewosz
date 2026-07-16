@@ -10,7 +10,7 @@ Szukam zdalnego stażu, pracy dorywczej albo pierwszych zleceń związanych z au
 
 ### ElektroScan
 
-Główny, aktywnie rozwijany projekt portfolio: aplikacja webowa wspierająca analizę planów elektrycznych zapisanych jako PDF oraz automatyzację liczenia symboli.
+Główny projekt pokazowy portfolio: aplikacja webowa wspierająca analizę planów elektrycznych zapisanych jako PDF oraz automatyzację liczenia symboli.
 
 Projekt łączy backend, przetwarzanie PDF, elementy analizy obrazu oraz interfejs webowy. Publiczne repozytorium: [JakubLewosz/ElektroScan](https://github.com/JakubLewosz/ElektroScan).
 
@@ -24,7 +24,7 @@ Publiczne repozytorium: [JakubLewosz/CodeFabric](https://github.com/JakubLewosz/
 
 ### Samurai's Last Stand
 
-Fork i rozwijany projekt gry 2D w Godot 4. Repozytorium obejmuje sceny, sterowanie, przeciwników, pociski, fale walki i eksport gry.
+Fork projektu gry 2D w Godot 4. Repozytorium obejmuje sceny, sterowanie, przeciwników, pociski, fale walki i eksport gry.
 
 Publiczne repozytorium: [JakubLewosz/samurais-last-stand](https://github.com/JakubLewosz/samurais-last-stand).
 
