@@ -103,7 +103,8 @@ I use AI tools throughout the software development process, including requiremen
 ## Technologies used in my projects
 
 - **AI-assisted development and local models:** OpenAI Codex as a development tool, Ollama, LangGraph, LangChain Core, LangChain Ollama.
-- **Backend and APIs:** Python, FastAPI, Pydantic, SQLAlchemy, Alembic, PostgreSQL, REST APIs.- **Computer vision and document processing:** OpenCV, PyMuPDF, NumPy.
+- **Backend and APIs:** Python, FastAPI, Pydantic, SQLAlchemy, Alembic, PostgreSQL, REST APIs.
+- **Computer vision and document processing:** OpenCV, PyMuPDF, NumPy.
 - **Frontend:** React, TypeScript, Vite, Tailwind CSS, Streamlit.
 - **Quality and delivery:** Git, GitHub Actions, Docker Compose, pytest, Ruff, Playwright.
 - **Game development:** Godot 4, GDScript.
