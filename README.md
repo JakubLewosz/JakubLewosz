@@ -22,6 +22,12 @@ I passed the INF.03 vocational qualification examination with **98% in theory** 
 
 ## Featured projects
 
+### [AutoRelay](https://github.com/JakubLewosz/AutoRelay) — solo full-stack portfolio project
+
+A webhook-driven automation platform that evaluates a safe conditional rule and delivers one retryable HTTP or Discord action. It combines a FastAPI API, PostgreSQL-backed sessions and execution queue, a separate worker, and a responsive React dashboard, with documented authorization, encryption, CSRF, and SSRF protections.
+
+**Python · FastAPI · PostgreSQL · SQLAlchemy · Alembic · React · TypeScript · Docker Compose · GitHub Actions**
+
 ### [ElektroScan](https://github.com/JakubLewosz/ElektroScan) — flagship project · active development
 
 A web application that demonstrates computer-vision-assisted analysis of electrical plans in PDF format, including symbol detection and counting.
@@ -97,8 +103,7 @@ I use AI tools throughout the software development process, including requiremen
 ## Technologies used in my projects
 
 - **AI-assisted development and local models:** OpenAI Codex as a development tool, Ollama, LangGraph, LangChain Core, LangChain Ollama.
-- **Backend and APIs:** Python, FastAPI, Pydantic, REST APIs.
-- **Computer vision and document processing:** OpenCV, PyMuPDF, NumPy.
+- **Backend and APIs:** Python, FastAPI, Pydantic, SQLAlchemy, Alembic, PostgreSQL, REST APIs.- **Computer vision and document processing:** OpenCV, PyMuPDF, NumPy.
 - **Frontend:** React, TypeScript, Vite, Tailwind CSS, Streamlit.
 - **Quality and delivery:** Git, GitHub Actions, Docker Compose, pytest, Ruff, Playwright.
 - **Game development:** Godot 4, GDScript.
