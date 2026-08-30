@@ -9,6 +9,7 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/JakubLewosz/AutoRelay">AutoRelay</a> ·
   <a href="https://github.com/JakubLewosz/ElektroScan">ElektroScan</a> ·
   <a href="https://github.com/JakubLewosz/CodeFabric">CodeFabric</a> ·
   <a href="https://github.com/JakubLewosz/samurais-last-stand">Samurai's Last Stand</a>
